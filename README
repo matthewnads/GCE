@@ -12,3 +12,5 @@ To run, execute the following commands:
     "qmake gui.pro"
     "make"
     "./gui"
+
+Note: You may also require an X server for the Qt graphical components. 
